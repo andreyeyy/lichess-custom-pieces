@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Lichess Custom Pieces",
+  "version": "1.0",
+  "description": "Adds custom piece textures to lichess",
+  "content_scripts": [
+    {
+      "matches": ["*://*.lichess.org/*"],
+      "css": ["custom.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    "pieces/*.png"
+  ]
+}
