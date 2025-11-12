@@ -9,4 +9,6 @@ Is a firefox extension you can use locally to change the textures of the pieces 
 After this, the pieces should have your custom textures.
 
 ## Example custom pieces
+You can find this piece set on the [other branch](https://github.com/andreyeyy/lichess-custom-pieces/tree/cat-pieces-set)
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/564380a3-c932-488f-b337-3fdf6df0c35f" />
